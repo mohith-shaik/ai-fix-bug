@@ -1,3 +1,3 @@
 public class Demo {
-    @AuraEnabled(cacheable=true) public String accountName { get; set; }
+    @AuraEnabled(cacheable=true) public String accountNameeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee { get; set; }
 }
